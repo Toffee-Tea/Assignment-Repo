@@ -1,0 +1,31 @@
+Question 1a - What is clouding computing?
+Cloud computing is the delivery of computing services over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale. The computing services include servers, storage, databases, networking, software, analytics, and intelligence.
+
+1b - What is the difference between Cloud computing and On Premises?
+The main difference between on-premise vs cloud software is the location. On-premise software is installed and runs on a company's own hardware infrastructure, and is hosted locally, whereas cloud software is stored and managed on the provider's servers, and accessed through a web browser or other interface.
+
+Question 2 -  List 5 advantages of On Premise environments.
+1. Data security and control - On-premises systems offer complete control over data security and resources. The IT team can address any potential vulnerabilities. 
+
+2. Independence from external variables - On-premises systems are not affected by internet connectivity or third-party issues. 
+
+3. Customization - On-premises systems allow for easy customization of business applications, workflows, and processes. 
+
+4. Enhanced collaboration - On-premises systems can improve access to crucial files, which can enhance productivity for large-scale projects. 
+
+5. Total control and ownership - On-premises systems offer total control and ownership over data, systems, and software maintenance. 
+ 
+
+Question 3 - List and describe the other cloud service models.
+1.Severless computing - a cloud-based model that allows developers to build and run applications without managing servers.
+
+2.Container as a service (CaaS) - a cloud-based service that allows users to manage and deploy containers at scale.  CaaS automates the process of hosting, deploying, and managing containers.
+Containers are software packages that include all the dependencies needed to run on any system.
+
+3.Network as a Service (NaaS) - A framework that gives clients secure access to network infrastructure, and can include features like virtual private networks (VPNs), bandwidth on demand, and intrusion detection.
+
+4.Unified Communications-as-a-Service (UCaaS) - A service model that provides remote collaboration and communications continuity, and can help remote work-forces stay connected. 
+
+5.Back-end-as-a-Service (BaaS): Provides developers with the backend services that take place on the server. 
+
+6.Function-as-a-Service (FaaS): Allows users to cost-effectively implement micro services. 
