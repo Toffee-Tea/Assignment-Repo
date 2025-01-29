@@ -1,0 +1,26 @@
+name: github-classwork-pipeline
+
+on:
+  push:
+    branches:
+      - master
+      - main
+  workflow_dispatch:
+
+jobs:
+  job1:
+    runs-on: my-test-server
+    steps:
+      - uses: actions/checkout@v4.2.2
+      - name: my-name
+        run: echo "Ebunoluwa."
+      - uses: actions/checkout@v4.2.2
+      - name: my-state
+        run: echo "Oyo State."
+      - uses: actions/checkout@v4.2.2
+      - name: my-country
+        run: echo "Nigeria."
+      - uses: actions/checkout@v4.2.2
+      - name: my-favourite-meal
+        run: echo "Rice."
+        shell: bash
