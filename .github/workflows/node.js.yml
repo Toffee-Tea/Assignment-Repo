@@ -1,0 +1,25 @@
+name: github-classwork-pipeline
+
+on:
+  push:
+    branches:
+      - master
+      - main
+  workflow_dispatch:
+
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4.2.2
+      - name: my-favourite-meal
+        run: echo "My favourite meal is Rice."
+        shell: bash
+
+  job2:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4.2.2
+      - name: End
+        run: echo "The End."
+        shell: bash
